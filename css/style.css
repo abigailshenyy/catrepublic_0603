@@ -229,7 +229,7 @@ header nav ul li a:hover::after, header nav ul li a.active::after {
 /* Frame 1: Hero Section */
 #hero {
     background-color: #ffffff;
-    background-image: url(/images/mountain01.png);
+    background-image: url(../images/mountain01.png);
     background-position: center bottom; 
     background-repeat: no-repeat;
     background-size: 100% auto;
