@@ -723,7 +723,7 @@ header nav ul li a:hover::after, header nav ul li a.active::after {
 
 
 #news {
-    background-image: url(/images/your-green-background.png);
+    background-image: url(../images/your-green-background.png);
     background-color: #fffBf5; 
     background-repeat: no-repeat;    
     background-position: center center;
